@@ -5,6 +5,14 @@ body {
     padding: 0;
     background-color: #e24f4f;
   }
+
+  html {
+    margin: 0;
+  }
+  
+  canvas {
+    display: block;
+  }
   
   header {
     background-color: #333;
